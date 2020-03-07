@@ -1,3 +1,3 @@
 # DeepFaceLab-POLISH
 Polish translation of original DFL by iperov / DeepFaceLab
-https://colab.research.google.com/github/zabique/DFL-Colab/blob/master/DFL_Colab.ipynb
+https://github.com/zabique/DeepFaceLab-POLISH/blob/master/PL-DFL.ipynb
